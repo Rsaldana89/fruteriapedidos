@@ -1,0 +1,8 @@
+import type { Metadata } from "next";
+import { company } from "@/src/config/company";
+
+export const metadata: Metadata = { title: "Aviso de privacidad | ABF Maxi Alimentos" };
+
+export default function PrivacyPage() {
+  return <main><section className="page-hero legal-hero"><div className="shell"><span className="eyebrow">Información legal</span><h1>Aviso de privacidad</h1><p>Estructura preliminar para el tratamiento de datos en solicitudes de pedido.</p></div></section><article className="section shell legal-copy"><div className="legal-notice"><strong>Pendiente de revisión legal antes de producción.</strong><p>Este contenido organiza la información mínima del formulario, pero no debe considerarse un aviso aprobado por asesoría jurídica.</p></div><h2>Responsable</h2><p>{company.name}, con domicilio en {company.address}, recibe los datos que el cliente proporciona voluntariamente al solicitar información o preparar un pedido.</p><h2>Datos solicitados</h2><p>Nombre y teléfono son obligatorios para atender la solicitud. Empresa, correo, dirección de entrega, fecha, horario, método de pago y notas son opcionales.</p><h2>Finalidad</h2><p>Los datos se utilizan para contactar al solicitante, cotizar, confirmar disponibilidad, coordinar entrega y dar seguimiento al pedido.</p><h2>Contacto</h2><p>Para dudas sobre el tratamiento de la información, escribe a <a href={`mailto:${company.email}`}>{company.email}</a>.</p><h2>Pendientes por confirmar</h2><ul><li>Nombre legal o razón social completa del responsable.</li><li>Mecanismo formal para ejercer derechos ARCO.</li><li>Política de conservación y eliminación de datos.</li><li>Transferencias de datos, si existieran.</li></ul></article></main>;
+}

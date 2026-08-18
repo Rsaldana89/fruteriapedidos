@@ -1,0 +1,870 @@
+[
+  {
+    "id": "acelga-2",
+    "name": "ACELGA",
+    "unit": "KG",
+    "price": 26,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "aguacate-hass-3",
+    "name": "AGUACATE HASS",
+    "unit": "KG",
+    "price": 97,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "ajo-4",
+    "name": "AJO",
+    "unit": "KG",
+    "price": 86,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "albahaca-5",
+    "name": "ALBAHACA",
+    "unit": "KG",
+    "price": 86,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "alfalfa-6",
+    "name": "ALFALFA",
+    "unit": "KG",
+    "price": 28.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "almendras-7",
+    "name": "ALMENDRAS",
+    "unit": "KG",
+    "price": 258,
+    "category": "Granos y semillas"
+  },
+  {
+    "id": "apio-8",
+    "name": "APIO",
+    "unit": "KG",
+    "price": 21.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "arandanos-9",
+    "name": "ARANDANOS",
+    "unit": "KG",
+    "price": 150,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "arroz-a-granel-10",
+    "name": "ARROZ A GRANEL",
+    "unit": "KG",
+    "price": 26,
+    "category": "Abarrotes"
+  },
+  {
+    "id": "avena-granvita-700-gr-11",
+    "name": "AVENA GRANVITA 700 GR",
+    "unit": "PAQ",
+    "price": 32,
+    "category": "Abarrotes"
+  },
+  {
+    "id": "azucar-a-granel-12",
+    "name": "AZUCAR A GRANEL",
+    "unit": "KG",
+    "price": 26,
+    "category": "Abarrotes"
+  },
+  {
+    "id": "betabel-13",
+    "name": "BETABEL",
+    "unit": "KG",
+    "price": 28.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "blue-berry-mora-azul-domo-140-gr-14",
+    "name": "BLUE BERRY (MORA AZUL) DOMO 140 GR",
+    "unit": "PZA",
+    "price": 60,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "brocoli-15",
+    "name": "BROCOLI",
+    "unit": "KG",
+    "price": 28.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "cacahuate-natural-16",
+    "name": "CACAHUATE NATURAL",
+    "unit": "KG",
+    "price": 86,
+    "category": "Granos y semillas"
+  },
+  {
+    "id": "calabaza-italiana-17",
+    "name": "CALABAZA ITALIANA",
+    "unit": "KG",
+    "price": 12,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "camote-amarillo-18",
+    "name": "CAMOTE AMARILLO",
+    "unit": "KG",
+    "price": 70,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "canela-entera-19",
+    "name": "CANELA ENTERA",
+    "unit": "KG",
+    "price": 571,
+    "category": "Abarrotes"
+  },
+  {
+    "id": "canela-molida-20",
+    "name": "CANELA MOLIDA",
+    "unit": "KG",
+    "price": 86,
+    "category": "Abarrotes"
+  },
+  {
+    "id": "cebolla-blanca-21",
+    "name": "CEBOLLA BLANCA",
+    "unit": "KG",
+    "price": 25.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "cebolla-cambray-22",
+    "name": "CEBOLLA CAMBRAY",
+    "unit": "KG",
+    "price": 42.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "cebolla-morada-23",
+    "name": "CEBOLLA MORADA",
+    "unit": "KG",
+    "price": 30,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "champinon-24",
+    "name": "CHAMPIÑON",
+    "unit": "KG",
+    "price": 136,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "chayote-sin-espinas-25",
+    "name": "CHAYOTE SIN ESPINAS",
+    "unit": "KG",
+    "price": 12,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "chicharo-verde-26",
+    "name": "CHICHARO VERDE",
+    "unit": "KG",
+    "price": 65,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "chicharron-seco-de-cerdo-27",
+    "name": "CHICHARRON SECO DE CERDO",
+    "unit": "KG",
+    "price": 145,
+    "category": "Abarrotes"
+  },
+  {
+    "id": "chile-ancho-28",
+    "name": "CHILE ANCHO",
+    "unit": "KG",
+    "price": 236,
+    "category": "Chiles secos"
+  },
+  {
+    "id": "chile-cascabel-29",
+    "name": "CHILE CASCABEL",
+    "unit": "KG",
+    "price": 328,
+    "category": "Chiles secos"
+  },
+  {
+    "id": "chile-chipotle-30",
+    "name": "CHILE CHIPOTLE",
+    "unit": "KG",
+    "price": 471,
+    "category": "Chiles secos"
+  },
+  {
+    "id": "chile-de-arbol-31",
+    "name": "CHILE DE ARBOL",
+    "unit": "KG",
+    "price": 171.5,
+    "category": "Chiles secos"
+  },
+  {
+    "id": "chile-guajillo-32",
+    "name": "CHILE GUAJILLO",
+    "unit": "KG",
+    "price": 229,
+    "category": "Chiles secos"
+  },
+  {
+    "id": "chile-guero-33",
+    "name": "CHILE GÜERO",
+    "unit": "KG",
+    "price": 64,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "chile-habanero-34",
+    "name": "CHILE HABANERO",
+    "unit": "KG",
+    "price": 186,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "chile-jalapeno-35",
+    "name": "CHILE JALAPEÑO",
+    "unit": "KG",
+    "price": 24.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "chile-manzano-36",
+    "name": "CHILE MANZANO",
+    "unit": "KG",
+    "price": 143,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "chile-morita-37",
+    "name": "CHILE MORITA",
+    "unit": "KG",
+    "price": 172,
+    "category": "Chiles secos"
+  },
+  {
+    "id": "chile-mulato-38",
+    "name": "CHILE MULATO",
+    "unit": "KG",
+    "price": 243,
+    "category": "Chiles secos"
+  },
+  {
+    "id": "chile-pasilla-39",
+    "name": "CHILE PASILLA",
+    "unit": "KG",
+    "price": 336,
+    "category": "Chiles secos"
+  },
+  {
+    "id": "chile-poblano-40",
+    "name": "CHILE POBLANO",
+    "unit": "KG",
+    "price": 31.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "chile-puya-41",
+    "name": "CHILE PUYA",
+    "unit": "KG",
+    "price": 193,
+    "category": "Chiles secos"
+  },
+  {
+    "id": "chile-serrano-42",
+    "name": "CHILE SERRANO",
+    "unit": "KG",
+    "price": 35,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "cilantro-43",
+    "name": "CILANTRO",
+    "unit": "KG",
+    "price": 29,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "col-blanca-44",
+    "name": "COL BLANCA",
+    "unit": "KG",
+    "price": 17.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "coliflor-45",
+    "name": "COLIFLOR",
+    "unit": "PZ",
+    "price": 36,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "corazones-de-lechuga-mr-lucky-3-pz-46",
+    "name": "CORAZONES DE LECHUGA MR LUCKY 3 PZ",
+    "unit": "BOL",
+    "price": 47,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "ejote-47",
+    "name": "EJOTE",
+    "unit": "KG",
+    "price": 42,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "elote-blanco-48",
+    "name": "ELOTE BLANCO",
+    "unit": "PZA",
+    "price": 10,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "elote-desgranado-49",
+    "name": "ELOTE DESGRANADO",
+    "unit": "KG",
+    "price": 80,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "epazote-verde-50",
+    "name": "EPAZOTE VERDE",
+    "unit": "KG",
+    "price": 35.7,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "espinaca-51",
+    "name": "ESPINACA",
+    "unit": "KG",
+    "price": 70,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "espinaca-baby-mr-lucky-225-gr-52",
+    "name": "ESPINACA BABY MR LUCKY 225 GR",
+    "unit": "BOL",
+    "price": 50,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "flor-de-calabaza-mjo-150-gr-53",
+    "name": "FLOR DE CALABAZA MJO 150 GR",
+    "unit": "PZ",
+    "price": 36,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "frambuesa-domo-140-gr-54",
+    "name": "FRAMBUESA DOMO 140 GR",
+    "unit": "PZA",
+    "price": 57,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "fresa-1a-domo-500-gr-55",
+    "name": "FRESA 1A DOMO 500 GR",
+    "unit": "PZA",
+    "price": 86,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "fresa-2a-para-agua-56",
+    "name": "FRESA 2A PARA AGUA",
+    "unit": "KG",
+    "price": 78,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "frijol-flor-de-junio-57",
+    "name": "FRIJOL FLOR DE JUNIO",
+    "unit": "KG",
+    "price": 40,
+    "category": "Granos y semillas"
+  },
+  {
+    "id": "frijol-negro-58",
+    "name": "FRIJOL NEGRO",
+    "unit": "KG",
+    "price": 43,
+    "category": "Granos y semillas"
+  },
+  {
+    "id": "frijol-peruano-59",
+    "name": "FRIJOL PERUANO",
+    "unit": "KG",
+    "price": 44,
+    "category": "Granos y semillas"
+  },
+  {
+    "id": "germen-de-alfalfa-60",
+    "name": "GERMEN DE ALFALFA",
+    "unit": "KG",
+    "price": 78.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "germen-de-soya-61",
+    "name": "GERMEN DE SOYA",
+    "unit": "KG",
+    "price": 72,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "guayaba-1a-p-postre-62",
+    "name": "GUAYABA 1A P/ POSTRE",
+    "unit": "KG",
+    "price": 22,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "guayaba-2a-p-agua-63",
+    "name": "GUAYABA 2A P/ AGUA",
+    "unit": "KG",
+    "price": 17,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "haba-seca-64",
+    "name": "HABA SECA",
+    "unit": "KG",
+    "price": 130,
+    "category": "Granos y semillas"
+  },
+  {
+    "id": "hierbabuena-65",
+    "name": "HIERBABUENA",
+    "unit": "KG",
+    "price": 35,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "hierbas-de-olor-mjo-50gr-66",
+    "name": "HIERBAS DE OLOR MJO 50GR",
+    "unit": "PZ",
+    "price": 12,
+    "category": "Otros"
+  },
+  {
+    "id": "hoja-de-aguacate-100-gr-67",
+    "name": "HOJA DE AGUACATE 100 GR",
+    "unit": "PZA",
+    "price": 36,
+    "category": "Otros"
+  },
+  {
+    "id": "huevo-68",
+    "name": "HUEVO",
+    "unit": "KG",
+    "price": 38,
+    "category": "Abarrotes"
+  },
+  {
+    "id": "jamaica-69",
+    "name": "JAMAICA",
+    "unit": "KG",
+    "price": 130,
+    "category": "Abarrotes"
+  },
+  {
+    "id": "jengibre-70",
+    "name": "JENGIBRE",
+    "unit": "KG",
+    "price": 243,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "jicama-71",
+    "name": "JICAMA",
+    "unit": "KG",
+    "price": 24,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "jitomate-cherry-72",
+    "name": "JITOMATE CHERRY",
+    "unit": "KG",
+    "price": 42,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "jitomate-saladett-73",
+    "name": "JITOMATE SALADETT",
+    "unit": "KG",
+    "price": 18.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "kiwi-74",
+    "name": "KIWI",
+    "unit": "KG",
+    "price": 140,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "laurel-100-gr-75",
+    "name": "LAUREL 100 GR",
+    "unit": "PZA",
+    "price": 36,
+    "category": "Otros"
+  },
+  {
+    "id": "lechuga-italiana-mr-lucky-76",
+    "name": "LECHUGA ITALIANA MR LUCKY",
+    "unit": "PZA",
+    "price": 27,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "lechuga-orejona-economica-77",
+    "name": "LECHUGA OREJONA ECONOMICA",
+    "unit": "PZA",
+    "price": 17,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "lechuga-orejona-mr-lucky-78",
+    "name": "LECHUGA OREJONA MR LUCKY",
+    "unit": "PZA",
+    "price": 28,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "lechuga-romana-economica-79",
+    "name": "LECHUGA ROMANA ECONOMICA",
+    "unit": "PZA",
+    "price": 17.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "lechuga-romana-mr-lucky-80",
+    "name": "LECHUGA ROMANA MR LUCKY",
+    "unit": "PZA",
+    "price": 32,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "limon-agrio-81",
+    "name": "LIMON AGRIO",
+    "unit": "KG",
+    "price": 16.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "limon-s-semilla-82",
+    "name": "LIMON S/SEMILLA",
+    "unit": "KG",
+    "price": 20,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "mandarina-83",
+    "name": "MANDARINA",
+    "unit": "KG",
+    "price": 50,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "mango-ataulfo-84",
+    "name": "MANGO ATAULFO",
+    "unit": "KG",
+    "price": 31,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "manzana-economica-nacional-85",
+    "name": "MANZANA ECONOMICA (NACIONAL)",
+    "unit": "KG",
+    "price": 54,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "manzana-golden-importacion-86",
+    "name": "MANZANA GOLDEN IMPORTACION",
+    "unit": "KG",
+    "price": 78,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "manzana-red-delicious-importacion-87",
+    "name": "MANZANA RED DELICIOUS (IMPORTACION)",
+    "unit": "KG",
+    "price": 70,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "melon-chino-88",
+    "name": "MELON CHINO",
+    "unit": "KG",
+    "price": 21,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "melon-valenciano-89",
+    "name": "MELON VALENCIANO",
+    "unit": "KG",
+    "price": 17.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "menta-90",
+    "name": "MENTA",
+    "unit": "KG",
+    "price": 143,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "mix-de-nueces-300-gr-91",
+    "name": "MIX DE NUECES 300 GR",
+    "unit": "BOL",
+    "price": 100,
+    "category": "Granos y semillas"
+  },
+  {
+    "id": "naranja-92",
+    "name": "NARANJA",
+    "unit": "KG",
+    "price": 30,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "nopal-93",
+    "name": "NOPAL",
+    "unit": "KG",
+    "price": 29,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "nuez-94",
+    "name": "NUEZ",
+    "unit": "KG",
+    "price": 400,
+    "category": "Granos y semillas"
+  },
+  {
+    "id": "nuez-de-la-india-95",
+    "name": "NUEZ DE LA INDIA",
+    "unit": "KG",
+    "price": 336,
+    "category": "Granos y semillas"
+  },
+  {
+    "id": "papa-blanca-96",
+    "name": "PAPA BLANCA",
+    "unit": "KG",
+    "price": 47.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "papa-cambray-97",
+    "name": "PAPA CAMBRAY",
+    "unit": "KG",
+    "price": 40,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "papa-saratoga-tipo-sabritas-98",
+    "name": "PAPA SARATOGA TIPO SABRITAS",
+    "unit": "KG",
+    "price": 207,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "papaya-maradol-99",
+    "name": "PAPAYA MARADOL",
+    "unit": "KG",
+    "price": 32,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "pepino-100",
+    "name": "PEPINO",
+    "unit": "KG",
+    "price": 20,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "pepita-entera-limpia-101",
+    "name": "PEPITA ENTERA LIMPIA",
+    "unit": "KG",
+    "price": 180,
+    "category": "Granos y semillas"
+  },
+  {
+    "id": "pera-mantequilla-102",
+    "name": "PERA MANTEQUILLA",
+    "unit": "KG",
+    "price": 72,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "perejil-liso-103",
+    "name": "PEREJIL LISO",
+    "unit": "PZA",
+    "price": 36,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "piloncillo-104",
+    "name": "PILONCILLO",
+    "unit": "KG",
+    "price": 43,
+    "category": "Abarrotes"
+  },
+  {
+    "id": "pimiento-morron-amarillo-105",
+    "name": "PIMIENTO MORRON AMARILLO",
+    "unit": "KG",
+    "price": 43,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "pimiento-morron-rojo-106",
+    "name": "PIMIENTO MORRON ROJO",
+    "unit": "KG",
+    "price": 43,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "pimiento-morron-verde-107",
+    "name": "PIMIENTO MORRON VERDE",
+    "unit": "KG",
+    "price": 43,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "pina-108",
+    "name": "PIÑA",
+    "unit": "KG",
+    "price": 22,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "pistache-109",
+    "name": "PISTACHE",
+    "unit": "KG",
+    "price": 386,
+    "category": "Granos y semillas"
+  },
+  {
+    "id": "platano-macho-110",
+    "name": "PLATANO MACHO",
+    "unit": "KG",
+    "price": 33,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "platano-tabasco-111",
+    "name": "PLATANO TABASCO",
+    "unit": "KG",
+    "price": 20,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "poro-112",
+    "name": "PORO",
+    "unit": "PZ",
+    "price": 38,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "rabano-113",
+    "name": "RABANO",
+    "unit": "MJO",
+    "price": 21.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "romero-114",
+    "name": "ROMERO",
+    "unit": "KG",
+    "price": 86,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "sandia-115",
+    "name": "SANDIA",
+    "unit": "KG",
+    "price": 15.7,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "soya-texturizada-116",
+    "name": "SOYA TEXTURIZADA",
+    "unit": "KG",
+    "price": 38,
+    "category": "Abarrotes"
+  },
+  {
+    "id": "tamarindo-117",
+    "name": "TAMARINDO",
+    "unit": "KG",
+    "price": 100,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "te-de-limon-118",
+    "name": "TE DE LIMON",
+    "unit": "KG",
+    "price": 42.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "tomate-verde-limpio-119",
+    "name": "TOMATE VERDE LIMPIO",
+    "unit": "KG",
+    "price": 18,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "toronja-120",
+    "name": "TORONJA",
+    "unit": "KG",
+    "price": 33,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "tuna-verde-121",
+    "name": "TUNA VERDE",
+    "unit": "KG",
+    "price": 41.5,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "uva-verde-122",
+    "name": "UVA VERDE",
+    "unit": "KG",
+    "price": 170,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "verdolaga-123",
+    "name": "VERDOLAGA",
+    "unit": "KG",
+    "price": 32,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "zanahoria-mediana-124",
+    "name": "ZANAHORIA MEDIANA",
+    "unit": "KG",
+    "price": 14.2,
+    "category": "Frutas y verduras"
+  },
+  {
+    "id": "zarzamora-domo-140-gr-125",
+    "name": "ZARZAMORA DOMO 140 GR",
+    "unit": "PZA",
+    "price": 50,
+    "category": "Frutas y verduras"
+  }
+]
